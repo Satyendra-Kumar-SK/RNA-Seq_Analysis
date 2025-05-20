@@ -4,7 +4,7 @@ I used my Python knowledge to analysis this data for practie. In this analysis I
 
 ## Overview
 
-This project analyzes **RNA-seq data** from a study titled:
+Focus of this project is to analyzes **RNA-seq data**. I used the data from a study titled:
 > 🧪 *"Hepatitis B virus promotes hepatocellular carcinoma (liver cancer) by modulating the immune response to environmental carcinogens."*
 
 - **Data Accession**: [GSE269528](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE269528)
