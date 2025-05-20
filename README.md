@@ -63,17 +63,11 @@ Focus of this project is to analyzes **RNA-seq data**. I used the data from a st
 
 6. ## 🛠️ How to Run
 
-```bash
-# Create a virtual environment
-python3 -m venv env
-source env/bin/activate
+This notebook was develop and run on google colab.
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Launch Jupyter
-jupyter notebook
-```
 
 ## 📜 Citation
 
