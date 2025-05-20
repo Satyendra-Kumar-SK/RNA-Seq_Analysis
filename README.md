@@ -1,4 +1,4 @@
-# I used my Python knowledge to analysis this data for practie
+I used my Python knowledge to analysis this data for practie
 
 # HBV-Induced Hepatocellular Carcinoma RNA-seq Analysis (Mouse)
 
