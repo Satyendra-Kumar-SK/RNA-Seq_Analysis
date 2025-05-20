@@ -1,4 +1,4 @@
-I used my Python knowledge to analysis this data for practie
+I used my Python knowledge to analysis this data for practie. In this analysis I used sanbomics tools to get the gene symbol from enseble id.
 
 # HBV-Induced Hepatocellular Carcinoma RNA-seq Analysis (Mouse)
 
@@ -7,7 +7,7 @@ I used my Python knowledge to analysis this data for practie
 This project analyzes **RNA-seq data** from a study titled:
 > 🧪 *"Hepatitis B virus promotes hepatocellular carcinoma (liver cancer) by modulating the immune response to environmental carcinogens."*
 
-- 📅 **Data Accession**: [GSE269528](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE269528)
+- **Data Accession**: [GSE269528](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE269528)
 - 🐭 **Organism**: *Mus musculus*
 - 🧫 **Samples**: 3 × HBV_DEN, 3 × Sham_DEN
 - 🧬 **Platform**: Illumina HiSeq 2000
@@ -60,9 +60,8 @@ This project analyzes **RNA-seq data** from a study titled:
    - Top pathways visualized with enrichment plots
 
    
-- Variable randomization
 
-## 🛠️ How to Run
+6. ## 🛠️ How to Run
 
 ```bash
 # Create a virtual environment
